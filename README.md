@@ -38,5 +38,5 @@
 - [PM2](https://pm2.keymetrics.io/) (Daemon Process Manager, keeps your app running)
 
 ## Badges:
-<img align="left" width="150" height="150" src="https://github.com/RCornidez/badges/blob/main/crowd_favorite_gdi_hackathon.png" alt="GDI Hackathon 2022 - Crowd Favorite">
+<a href="https://girldevelopit.com/"><img align="left" width="150" height="150" src="https://github.com/RCornidez/badges/blob/main/crowd_favorite_gdi_hackathon.png" alt="GDI Hackathon 2022 - Crowd Favorite" ></a>
 
