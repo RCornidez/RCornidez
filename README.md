@@ -34,3 +34,7 @@
 - [discord](https://discord.com/)/[slack](https://slack.com/) (Group coordination) 
 - [drawsql.app](https://drawsql.app/) (ERD tool for visually SQL databases, super easy to use.)
 - [droplets](https://www.digitalocean.com/products/droplets)/[Google VM](https://cloud.google.com/compute)/[Dreamhost](https://www.dreamhost.com/) (hosting options, love all of them)
+
+## Badges:
+<img align="left" width="150" height="150" src="https://github.com/RCornidez/badges/blob/main/crowd_favorite_gdi_hackathon.png" alt="GDI Hackathon 2022 - Crowd Favorite">
+
