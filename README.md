@@ -1,7 +1,5 @@
 *👋 Hi, I’m @RCornidez a.k.a. Rodrigo to the locals. a.k.a. Weegs to my family.*
 
-*📫 LinkedIn - https://www.linkedin.com/in/rodrigo-cornidez-95b995204/*
-
 ## Current Focus:
 - WebRTC
 
