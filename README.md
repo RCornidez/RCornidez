@@ -3,9 +3,7 @@
 *📫 LinkedIn - https://www.linkedin.com/in/rodrigo-cornidez-95b995204/*
 
 ## Current Focus:
-- react-native
-- bun
-- MySQL
+- WebRTC
 
 ## My Stack:
 - **Javascript:**  
