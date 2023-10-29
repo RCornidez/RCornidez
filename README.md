@@ -1,7 +1,4 @@
-*👋 Hi, I’m @RCornidez a.k.a. Rodrigo to the locals. a.k.a. Weegs to my family.*
-
-## Current Focus:
-- WebRTC
+*👋 Hi, I’m @RCornidez
 
 ## My Stack:
 - **Javascript:**  
